@@ -6,17 +6,16 @@ Web pages required:
 
 1.Signup(user id= SRN,password=password convention)
 
-
 2.login(user id=SRN for students,for others emp id,password=used in signup)
 
 
 3.Dashboard for students
 
 
-  |___ page to select only electives 
+      |___ page to select only electives 
   
   
-  |___ Page to select electives and faculty along with preference 
+   |___ Page to select electives and faculty along with preference 
   
   
   |___ Page to check elective allotment
