@@ -1,1 +1,1 @@
-Intership Automation System
+Electives Automation System
