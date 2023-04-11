@@ -13,7 +13,6 @@ Web pages required:
 
 
       |___ page to select only electives 
-  
       |___ Page to select electives and faculty along with preference 
   
   
